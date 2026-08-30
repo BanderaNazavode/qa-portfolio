@@ -69,7 +69,7 @@ E-commerce demo store used for manual testing practice.
 
 **Testing artifacts:**
 - 30 test cases
-- [Test Сases](./SuperQA-DemoStore/Test-сases/)
+- [Test Cases](./SuperQA-DemoStore/Test-cases/)
 - [Test Run](./SuperQA-DemoStore/Test-Run/)
 - [Bug Reports](./SuperQA-DemoStore/Bug-Reports/)
 - Defects documented in Jira
