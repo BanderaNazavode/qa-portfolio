@@ -47,7 +47,7 @@ E-commerce demo application used for manual testing practice.
 - Test Run performed in Qase.io
 - Positive and negative scenarios
 - Defects documented in Jira
-- Test evidence and screenshots
+- Test execution results
 
 [View SauceDemo Project](./SauceDemo/)
 
@@ -73,7 +73,7 @@ E-commerce demo store used for manual testing practice.
 - Test Run performed in Qase.io
 - Positive and negative scenarios
 - Defects documented in Jira
-- Test evidence and screenshots
+- Test execution results
 
 [View SuperQA Demo Store Project](./SuperQA-DemoStore/)
 
