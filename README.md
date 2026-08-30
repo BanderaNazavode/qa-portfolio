@@ -43,9 +43,9 @@ E-commerce demo application used for manual testing practice.
 
 **Testing artifacts:**
 - 30 test cases
-- Test cases managed in Qase.io
-- Test Run performed in Qase.io
-- Positive and negative scenarios
+- [Test Cases](./SauceDemo/Test-Cases/)
+- [Test Run](./SauceDemo/Test-Run/)
+- [Bug Reports](./SauceDemo/Bug-Reports/)
 - Defects documented in Jira
 - Test execution results
 
@@ -69,9 +69,9 @@ E-commerce demo store used for manual testing practice.
 
 **Testing artifacts:**
 - 30 test cases
-- Test cases managed in Qase.io
-- Test Run performed in Qase.io
-- Positive and negative scenarios
+- [Test Cases](./SuperQA-DemoStore/Test-Cases/)
+- [Test Run](./SuperQA-DemoStore/Test-Run/)
+- [Bug Reports](./SuperQA-DemoStore/Bug-Reports/)
 - Defects documented in Jira
 - Test execution results
 
